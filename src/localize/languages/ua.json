@@ -1,0 +1,17 @@
+{
+  "common": {
+    "version": "Версія",
+    "invalid_configuration": "Невірна конфігурація",
+    "show_warning": "Показувати попередження",
+    "show_error": "Показувати помилку",
+    "uv_index": "УФ індекс",
+    "uv_risk": "Ризик"
+  },
+  "uv_levels": {
+    "low": "Низький",
+    "moderate": "Середній",
+    "high": "Високий",
+    "very_high": "Дуже високий",
+    "extreme": "Екстремальний"
+  }
+}
