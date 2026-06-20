@@ -143,6 +143,8 @@ show_risk: false
 | Slovak | `sk` | [@milandzuris](https://github.com/milandzuris) |
 | Slovenian | `sl` | [@palfyz](https://github.com/palfyz) |
 | Swedish | `sv` | [@el97](https://github.com/el97) |
+| Russian | `ru` | [@TheLightTwist](https://github.com/TheLightTwist) |
+| Ukrainian | `ua` | [@TheLightTwist](https://github.com/TheLightTwist) |
 
 ## Development
 

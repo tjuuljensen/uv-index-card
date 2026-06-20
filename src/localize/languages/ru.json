@@ -1,0 +1,17 @@
+{
+  "common": {
+    "version": "Версия",
+    "invalid_configuration": "Неправильная конфигурация",
+    "show_warning": "Показывать предупреждение",
+    "show_error": "Показывать ошибку",
+    "uv_index": "УФ индекс",
+    "uv_risk": "Риск"
+  },
+  "uv_levels": {
+    "low": "Низкий",
+    "moderate": "Средний",
+    "high": "Высокий",
+    "very_high": "Очень высокий",
+    "extreme": "Экстремальный"
+  }
+}

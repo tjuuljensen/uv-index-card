@@ -17,6 +17,8 @@ import * as ptBr from './languages/pt-BR.json';
 import * as sk from './languages/sk.json';
 import * as sl from './languages/sl.json';
 import * as sv from './languages/sv.json';
+import * as ru from './languages/ru.json';
+import * as ua from './languages/ua.json';
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const languages: any = {
@@ -39,6 +41,8 @@ const languages: any = {
   sk: sk,
   sl: sl,
   sv: sv,
+  ru: ru,
+  ua: ua,
 };
 
 export const CARD_LANGUAGES = Object.keys(languages).sort((left, right) =>
