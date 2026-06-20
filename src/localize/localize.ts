@@ -19,6 +19,8 @@ const languages: any = {
   nl: nl,
   pt: pt,
   sv: sv,
+  ru: ru,
+  ua: ua,
 };
 
 export const CARD_LANGUAGES = [...Object.keys(languages), ''].sort();
